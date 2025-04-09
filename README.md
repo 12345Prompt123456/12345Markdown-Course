@@ -1,11 +1,12 @@
 # SpiderLang
-Code faster, not harder
+Code faster, not harder 
 
 ```spider
 import textdash from spiderlangINTERPRETER;
 
 textdash.pop("Hi!");
 ```
+Also the pop statement is to pop it into the console just like popcorn! 🍿.
 Everytime you start a new program, you need a ```import textdash from spiderlangINTERPRETER;``` statementor else you msut type thiswhole line of code to print Hi:
 ```spider
 spider.createTextonConsole("Hi", baseInterpreter
